@@ -1,3 +1,10 @@
+# Meme Generator
+
+## How It Works
+
+-Click "Gen" to get a new image
+-Add your text to the top text and bottom text boxes
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
